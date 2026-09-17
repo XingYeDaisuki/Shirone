@@ -64,7 +64,14 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 						"assets/images/banner/desktop/4.webp",
 					//	"assets/images/banner/desktop/5.webp",
 					],
-			mobile: ["assets/images/banner/mobile/1.webp"],
+			mobile: [
+						"assets/images/banner/mobile/1.webp",
+						"assets/images/banner/mobile/2.webp",
+						"assets/images/banner/mobile/3.webp",
+						"assets/images/banner/mobile/4.webp",
+						"assets/images/banner/mobile/5.webp",
+						"assets/images/banner/mobile/6.webp",
+					],
 		},
 		// 图片裁切焦点："top"、"center" 或 "bottom"。
 		position: "center",
